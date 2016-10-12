@@ -23,6 +23,7 @@ public class Main1 {
 		}
 
 		Cons c1 = new Cons(new Content("2"),null);
+
 		c1.add(new Content("3"));
 		//System.out.println(c1.getContent());
 		Cons c2 = new Cons();
